@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Aug  3 19:55:25 2025
-
-@author: K_Mendez
-"""
-
 import random
 
 def obtener_palabra():
